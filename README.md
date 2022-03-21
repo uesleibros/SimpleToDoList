@@ -9,5 +9,7 @@
 🍹 ● Visual minimalista.<br/>
 🔃 ● Ordenar, editar e mover categorias ou listas.
 ## Como Usar?
-Clique [Aqui](https://www.mediafire.com/file/gln2dwyqj0wjesc/Simple_ToDo_List.rar/file) para fazer o Download do SimpleToDoList, ou, Use-o em sua versão de [Navegador](https://simpletodolist.uesleidev.repl.co)
+Existe 2 versões, Navegador e Desktop App:<br/>
+● [Desktop App](https://www.mediafire.com/file/gln2dwyqj0wjesc/Simple_ToDo_List.rar/file)<br/>
+● [Navegador](https://simpletodolist.uesleidev.repl.co)
 </div>
